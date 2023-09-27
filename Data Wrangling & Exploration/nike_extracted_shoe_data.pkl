@@ -1,0 +1,61 @@
+,title,subtitle,colorDescription,fullPrice,discounted,employeePrice,currentPrice,isLaunch,pid,label
+0,Air Jordan 1 Low,Women's Shoes,Lucky Green/White/Aquatone,110,True,53.38,88.97,False,1010048667,IN_STOCK
+1,Nike Gamma Force,Women's Shoes,Sail/Wheat Gold/Team Red/Fir,90,False,54.0,90.0,False,1010071418,BEST_SELLER
+2,Nike Blazer Mid '77,Women's Shoes,NBY,105,False,63.0,105.0,False,13365680,BEST_SELLER
+3,Nike Dunk Low SE,Women's Shoes,Sail/Black/Muslin/Team Red,120,False,72.0,120.0,False,1003839056,IN_STOCK
+4,Air Jordan 1 Mid,Men's Shoes,Lucky Green/White/Black,125,True,60.58,100.97,False,1010128831,IN_STOCK
+5,Nike Air Max Correlate,Women's Shoes,White/New Green/Bright Mango/Black,100,False,60.0,100.0,False,10146278,IN_STOCK
+6,Nike Air Max 90,Men's Shoes,NBY,130,False,78.0,130.0,False,12789093,BEST_SELLER
+7,Nike Air Max Terrascape Plus,Men's Shoes,Black/Anthracite/Black/Anthracite,185,True,72.58,120.97,False,14244124,IN_STOCK
+8,Nike Dunk Low,Big Kids' Shoes,White/White/Black,90,False,,90.0,True,13098154,COMING_SOON
+9,Nike Kawa,Baby/Toddler Slides,Black/White/White/White,28,False,16.8,28.0,False,12725118,IN_STOCK
+10,Air Jordan 4 Retro,Big Kids' Shoes,White/Black/Neutral Grey/Fire Red,160,False,,160.0,False,1012356670,SNKRS
+11,Air Jordan 1 High OG,Big Kids' Shoes,Black/White/Light Smoke Grey/Fire Red,140,False,84.0,140.0,False,1010117127,BEST_SELLER
+12,Air Jordan 1 Mid SE,Women's Shoes,Sail/Light Steel Grey/Black,135,False,81.0,135.0,False,1010050686,BEST_SELLER
+13,Nike Air Max 95,Men's Shoes,NBY,175,True,84.58,140.97,False,1012306898,IN_STOCK
+14,Air Jordan 1 Mid,Men's Shoes,University Blue/White/Black,125,False,75.0,125.0,False,1012356738,IN_STOCK
+15,Nike Air Force 1 '07 LV8,Women's Shoes,Sail/Metallic Silver/Tawny/Sail,120,False,72.0,120.0,False,1011845641,IN_STOCK
+16,Nike Dunk High,Women's Shoes,NBY,125,False,75.0,125.0,False,13176386,IN_STOCK
+17,Air Jordan 1 Zoom CMFT 2,Women's Shoes,Light Iron Ore/Black/Coconut Milk/Neutral Grey,150,False,90.0,150.0,False,1012329058,IN_STOCK
+18,Nike Air Force 1 '07 Fresh,Men's Shoes,NBY,140,True,63.58,105.97,False,13933114,IN_STOCK
+19,Air Jordan 1 Mid,Women's Shoes,Action Grape/Sail/Sky J Light Purple,125,False,75.0,125.0,False,1012356868,IN_STOCK
+20,Jumpman MVP,Men's Shoes,Black/University Red/Anthracite/Dark Concord,165,False,99.0,165.0,False,1012356728,BEST_SELLER
+21,Air Jordan 1 Low,Men's Shoes,Palomino/White/Wild Berry,110,True,49.78,82.97,False,1003842468,IN_STOCK
+22,Nike Dunk Low,Women's Shoes,White/Light Silver,110,False,66.0,110.0,False,1012594716,JUST_IN
+23,Air Jordan 1 Mid,Women's Shoes,Lemon Wash/White/Lapis,125,True,60.58,100.97,False,1003839142,IN_STOCK
+24,Nike Air VaporMax Plus,Men's Shoes,Work Blue/Diffused Blue/White/Cool Grey,210,True,101.38,168.97,False,12238830,IN_STOCK
+25,Nike Air Max 270,Men's Shoes,White/White/Black,160,False,96.0,160.0,False,12016993,BEST_SELLER
+26,Air Jordan 1 Retro High OG,Men's Shoes,Tech Grey/Black/White/Muslin,180,False,108.0,180.0,False,1009220059,IN_STOCK
+27,Air Jordan 3 Retro,Men's Shoes,Light Orewood Brown/Light British Tan/Palomino/Metallic Gold,200,False,120.0,200.0,False,1012356682,IN_STOCK
+28,Nike Dunk Low,Little Kids' Shoes,White/White/Black,70,False,,70.0,True,13097879,COMING_SOON
+29,Ja 1,Big Kids' Basketball Shoes,Bright Mandarin/Black/Baltic Blue/Opti Yellow,90,False,54.0,90.0,False,1012378974,IN_STOCK
+30,Nike Dunk High Retro,Men's Shoe,NBY,125,False,75.0,125.0,False,13382485,IN_STOCK
+31,Jordan 1 Low Alt,Little Kids' Shoes,Sky J Purple/White/Sky J Light Purple,70,False,42.0,70.0,False,1012365398,IN_STOCK
+32,Air Jordan 1 Low,Men's Shoes,Sky J Purple/White/Sky J Light Purple,110,False,66.0,110.0,False,1012365345,IN_STOCK
+33,Nike Downshifter 12,Women's Road Running Shoes,Guava Ice/Pure Platinum/Amber Brown/Rush Fuchsia,70,True,32.38,53.97,False,1012302837,IN_STOCK
+34,Air Jordan 3 Retro,Women's Shoes,White/Lucky Green/Cement Grey/Varsity Red,200,False,120.0,200.0,False,1010052948,BEST_SELLER
+35,Air Jordan 1 Mid Sneaker School,Big Kids' Shoes,White/University Red/Blue Lightning/Metallic Gold,120,False,72.0,120.0,False,1012356821,IN_STOCK
+36,"Sabrina 1 ""Ionic""",Basketball Shoes,Photon Dust/Oxygen Purple/Light Smoke Grey/Anthracite,130,False,78.0,130.0,False,1012605537,JUST_IN
+37,Air Jordan 1 Low G,Golf Shoes,White/Midnight Navy/Black,140,False,84.0,140.0,False,1003841454,IN_STOCK
+38,Air Jordan 5 Retro SE Craft,Men's Shoes,Light Orewood Brown/Flat Pewter/Sail/Safety Orange,210,False,126.0,210.0,False,1010058703,IN_STOCK
+39,Air Jordan 1 Mid,Shoes,White/White/White,125,False,75.0,125.0,False,14248558,IN_STOCK
+40,Air Jordan 7 Retro,Men's Shoes,Black/Light Graphite/White/Chambray,200,False,120.0,200.0,False,1012356683,IN_STOCK
+41,Nike Air Force 1 '07,Women's Shoes,NBY,110,False,66.0,110.0,False,13124718,BEST_SELLER
+42,Nike Free Run 2018,Men's Road Running Shoes,White/Black,100,True,47.98,79.97,False,12113353,IN_STOCK
+43,Nike Revolution 6,Men's Road Running Shoes,Black/Iron Grey/White,70,True,33.58,55.97,False,13712167,IN_STOCK
+44,Air Jordan Low SE,Men's Shoes,Black/Magic Ember/White/Sundial,120,True,58.18,96.97,False,1010051324,IN_STOCK
+45,Nike Dunk Low,Big Kids' Shoes,Blue Joy/White/Black/Bright Mandarin,90,False,54.0,90.0,False,1012586129,BEST_SELLER
+46,Nike Dunk Low,Big Kids' Shoes,Black/Light Silver/Bright Mandarin/Medium Ash,100,False,60.0,100.0,False,1012585202,IN_STOCK
+47,Nike Invincible 3,Men's Road Running Shoes,NBY,180,False,108.0,180.0,False,1012549802,BEST_SELLER
+48,Nike Air Force 1 LV8,Big Kids' Shoes,White/White/Light Menta/Multi-Color,100,True,45.58,75.97,False,1011839520,IN_STOCK
+49,Air Jordan 1 Low SE,Women's Shoes,Sky J Orange/Sail,120,False,72.0,120.0,False,1012338661,IN_STOCK
+50,Nike Dunk High 1985,Shoes,Arctic Orange/Summit White/Orange Blaze/Arctic Orange,140,True,63.58,105.97,False,14085639,IN_STOCK
+51,Air Jordan 1 Low OG,Shoes,Sail/Atmosphere Grey/Black,140,False,84.0,140.0,False,1012356686,IN_STOCK
+52,Air Jordan 1 Low,Men's Shoes,Black/University Blue/White/Black,110,False,66.0,110.0,False,1012365344,IN_STOCK
+53,Nike Dunk Low,Shoes,White/Oil Green/Cargo Khaki/Light Bone,110,False,66.0,110.0,False,1012716116,JUST_IN
+54,Nike Air Force 1 Shadow,Women's Shoes,Phantom/Pink Oxford/White/Red Stardust,130,False,78.0,130.0,False,1012328842,IN_STOCK
+55,Nike Revolution 5,Women's Road Running Shoes,Black/Anthracite/White,60,False,36.0,60.0,False,12719413,IN_STOCK
+56,Nike Air Force 1 '07 EasyOn,Women's Shoes,White/White/White,110,False,66.0,110.0,False,14253934,IN_STOCK
+57,Nike Flex Control 4,Men's Workout Shoes,Black/Dark Smoke Grey/Smoke Grey/White,70,True,34.18,56.97,False,12784676,IN_STOCK
+58,Nike Air Max 90 SE,Women's Shoes,NBY,140,False,84.0,140.0,False,1011876287,nikePlusExclusive
+59,Nike Blazer Low Platform,Women's Shoes,NBY,100,False,60.0,100.0,False,13722362,IN_STOCK

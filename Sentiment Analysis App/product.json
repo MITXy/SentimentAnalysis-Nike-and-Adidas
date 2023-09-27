@@ -1,0 +1,2884 @@
+{
+    "hydratedProducts": [
+        {
+            "isOnSale": false,
+            "catalogId": "d7093ece-f603-4f3c-b5da-073d7014edce",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 120,
+            "name": "NIKE DUNK LOW",
+            "country": "us",
+            "prodigyId": "1012594511",
+            "cloudProductId": "8a4adf8a-b2a1-5c09-9d33-b5e662e66499",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "6",
+                    "sku": "27b2d5ac-2511-5c66-a71e-0c9674e6f83d",
+                    "gtin": "00196609330799"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "540f57e7-8db6-5eee-b67b-20c148be295b",
+                    "gtin": "00196609330805"
+                },
+                {
+                    "size": "7",
+                    "sku": "ef773852-5e8d-597e-93c5-fd4ac8077d4c",
+                    "gtin": "00196609330812"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "5e7d0729-9db1-5026-8d2c-b832d0734f8a",
+                    "gtin": "00196609330829"
+                },
+                {
+                    "size": "8",
+                    "sku": "91c98b85-58f2-5331-a8d9-a7d56d6506dd",
+                    "gtin": "00196609330836"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "96fa4392-3e06-5a27-98ca-755718e4d47f",
+                    "gtin": "00196609330843"
+                },
+                {
+                    "size": "9",
+                    "sku": "957ca1f0-e785-5cb8-803a-6c3ed6349b73",
+                    "gtin": "00196609330850"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "679bc5a1-6563-5ad7-852d-170a5066739c",
+                    "gtin": "00196609330867"
+                },
+                {
+                    "size": "10",
+                    "sku": "ad0a5379-30c4-5fcb-b3a2-24b8483505a9",
+                    "gtin": "00196609330874"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "35ed4bc1-5a77-5f3b-8cf8-740f6d024cc9",
+                    "gtin": "00196609330881"
+                },
+                {
+                    "size": "11",
+                    "sku": "6f9ce1cd-ad09-5a1a-b10f-b6a65a811988",
+                    "gtin": "00196609330898"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "9e61113b-8aed-5934-88d5-e72630cb0fad",
+                    "gtin": "00196609330904"
+                },
+                {
+                    "size": "12",
+                    "sku": "57a72170-7be8-599b-851a-49ecfeddf2e2",
+                    "gtin": "00196609330911"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "c7f550c4-08dc-51ff-ae26-81fa43e098af",
+                    "gtin": "00196609330928"
+                },
+                {
+                    "size": "13",
+                    "sku": "4db6513e-d5d3-55ab-b65a-2da26ed1f9e9",
+                    "gtin": "00196609330935"
+                },
+                {
+                    "size": "14",
+                    "sku": "ac2bfd9d-19f1-5f38-b77d-877373dc83db",
+                    "gtin": "00196609330942"
+                },
+                {
+                    "size": "15",
+                    "sku": "4cc21376-8ead-51f9-a531-dd17afcdd213",
+                    "gtin": "00196609330959"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 120,
+            "color": "FN6881-100"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "60874f87-397e-4835-8d3f-658d63079b6f",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 110,
+            "name": "NIKE DUNK LOW",
+            "country": "us",
+            "prodigyId": "1012716116",
+            "cloudProductId": "9f3eb8d1-e0f9-5737-b36b-38717da6abae",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "6",
+                    "sku": "6569ca20-dcbd-5872-b8d5-45bc218c1136",
+                    "gtin": "00196968161492"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "d10b075d-46fc-5637-82ca-1fb68a40f5e8",
+                    "gtin": "00196968161508"
+                },
+                {
+                    "size": "7",
+                    "sku": "b4f8bd9f-ee58-5e00-9477-40974dfa59ce",
+                    "gtin": "00196968161515"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "a6ba51fe-22bd-5841-aee5-c99e72bb38b8",
+                    "gtin": "00196968161522"
+                },
+                {
+                    "size": "8",
+                    "sku": "e9c8f88f-4172-593c-b93c-46dc1b03c7ac",
+                    "gtin": "00196968161539"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "70fb0983-1900-5d94-80ba-07b4b0944929",
+                    "gtin": "00196968161546"
+                },
+                {
+                    "size": "9",
+                    "sku": "54288ed4-2763-5c79-88a4-252dfec1046b",
+                    "gtin": "00196968161553"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "6cc7c3c3-aee1-593c-837f-34dd8516951f",
+                    "gtin": "00196968161560"
+                },
+                {
+                    "size": "10",
+                    "sku": "6667ea24-52af-5f28-937a-5d40fdcf3cc2",
+                    "gtin": "00196968161577"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "9862fc6c-1862-57e3-888a-127f32278fbe",
+                    "gtin": "00196968161584"
+                },
+                {
+                    "size": "11",
+                    "sku": "b45bb2ef-101a-5468-9cbd-6035911334a2",
+                    "gtin": "00196968161591"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "02799911-60f7-5583-9d85-8fa68b8c5551",
+                    "gtin": "00196968161607"
+                },
+                {
+                    "size": "12",
+                    "sku": "3252300f-c6c6-5ce5-bc3e-9ec9cbc231dd",
+                    "gtin": "00196968161614"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "0c571438-b6cd-51ae-ae47-5fe05db38765",
+                    "gtin": "00196968161621"
+                },
+                {
+                    "size": "13",
+                    "sku": "9eaa46ae-4df5-5910-bab2-999685476d49",
+                    "gtin": "00196968161638"
+                },
+                {
+                    "size": "14",
+                    "sku": "7dcb65b5-098a-55de-b34d-1b38cd28b427",
+                    "gtin": "00196968161645"
+                },
+                {
+                    "size": "15",
+                    "sku": "ada6cf39-fd5f-5d78-b713-797ad8b1e7c1",
+                    "gtin": "00196968161652"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 110,
+            "color": "FN6882-100"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "fecf1975-b4ba-307c-8747-8aa654924118",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 110,
+            "name": "AIR FORCE 1 '07",
+            "country": "us",
+            "prodigyId": "13071857",
+            "cloudProductId": "30694dee-8fb4-5e23-a8be-02dc261bc7b0",
+            "subCategory": [
+                "Dance",
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "5",
+                    "sku": "81342413-c290-5e41-b477-88b0300b5d74",
+                    "gtin": "00194500874862"
+                },
+                {
+                    "size": "5.5",
+                    "sku": "4e8edd67-d92d-55d2-bb8b-9ae96465c66c",
+                    "gtin": "00194500874879"
+                },
+                {
+                    "size": "6",
+                    "sku": "3c95b6cf-42e7-567c-8bf2-2ee9c9398f9d",
+                    "gtin": "00194500874886"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "37d7ecad-ce5b-5c67-b7a4-b12c88b7beb2",
+                    "gtin": "00194500874893"
+                },
+                {
+                    "size": "7",
+                    "sku": "4150c3df-97b9-5a7f-8d76-e2c5daa49025",
+                    "gtin": "00194500874909"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "898798a4-2cac-59c2-8f75-42d8566a3b4a",
+                    "gtin": "00194500874916"
+                },
+                {
+                    "size": "8",
+                    "sku": "6a24d48b-314a-5eea-ac1f-d9e4d16d21bd",
+                    "gtin": "00194500874923"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "86c661e0-8700-5c32-a08a-7d0ee41d7bc4",
+                    "gtin": "00194500874930"
+                },
+                {
+                    "size": "9",
+                    "sku": "022e6009-c53c-522e-8059-1dda5531a10b",
+                    "gtin": "00194500874947"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "3c2f7021-8fc5-580d-9576-71d633be7a05",
+                    "gtin": "00194500874954"
+                },
+                {
+                    "size": "10",
+                    "sku": "65482404-60f4-51e3-ac13-71b4c39b4bff",
+                    "gtin": "00194500874961"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "c18c3d90-476e-50ef-b003-78b5197eefa7",
+                    "gtin": "00194500874978"
+                },
+                {
+                    "size": "11",
+                    "sku": "496eae42-d79f-52a3-9ba6-edfd3acfe5be",
+                    "gtin": "00194500874985"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "bfd47b29-5743-50dd-948f-5cfabb35e3c0",
+                    "gtin": "00194500874992"
+                },
+                {
+                    "size": "12",
+                    "sku": "23309959-571e-5d30-9f9e-93cc2efb99be",
+                    "gtin": "00194500875005"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "11e4f82a-1674-5234-b26d-ca5625a71a48",
+                    "gtin": "00194500875012"
+                },
+                {
+                    "size": "13",
+                    "sku": "0ac3669a-2917-57c9-9c48-16fd8bb36d7e",
+                    "gtin": "00194500875029"
+                },
+                {
+                    "size": "14",
+                    "sku": "52b8424c-f865-5478-a335-8b62b37fcf17",
+                    "gtin": "00194500875036"
+                },
+                {
+                    "size": "15",
+                    "sku": "86cf5fb5-52e8-59dd-b47b-e98d3f3e2a48",
+                    "gtin": "00194500875043"
+                },
+                {
+                    "size": "16",
+                    "sku": "0feb1cf1-8846-562a-8735-ab37b2468215",
+                    "gtin": "00194500875050"
+                },
+                {
+                    "size": "17",
+                    "sku": "4993419f-bb7b-537f-acf6-7e488a4e3dc8",
+                    "gtin": "00194500875067"
+                },
+                {
+                    "size": "18",
+                    "sku": "1ff3b9f1-6b40-5571-9bef-93c92e0011b3",
+                    "gtin": "00194500875074"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 110,
+            "color": "CW2288-111"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "f39eb8dd-6425-4aed-8e8d-ef1b30cccf2e",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 140,
+            "name": "AIR FORCE 1 '07 LX",
+            "country": "us",
+            "prodigyId": "1012328765",
+            "cloudProductId": "f783905e-1d6f-57a4-86aa-6ec71ae38f46",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "3.5",
+                    "sku": "c6ab8a2f-628e-5132-9731-6e4d01343823",
+                    "gtin": "00196608065616"
+                },
+                {
+                    "size": "4",
+                    "sku": "f965c253-d9c2-5b8a-a46b-1fbab0253052",
+                    "gtin": "00196608065623"
+                },
+                {
+                    "size": "4.5",
+                    "sku": "d83151f6-718b-53cd-aa5b-6aa916754e2f",
+                    "gtin": "00196608065630"
+                },
+                {
+                    "size": "5",
+                    "sku": "d4ff0659-5284-5ffe-aa5f-02d6571c0a7d",
+                    "gtin": "00196608065647"
+                },
+                {
+                    "size": "5.5",
+                    "sku": "0b26b1ab-d2ec-57ec-a0a5-916c1bf1bc3d",
+                    "gtin": "00196608065654"
+                },
+                {
+                    "size": "6",
+                    "sku": "4da935a4-f575-5638-b7c6-12e85d216453",
+                    "gtin": "00196608065661"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "ae709370-d51f-55aa-8553-e0b02b4ffac8",
+                    "gtin": "00196608065678"
+                },
+                {
+                    "size": "7",
+                    "sku": "a1b3cc04-d631-5ad9-b56b-d82f510bb3a3",
+                    "gtin": "00196608065685"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "e5ac6dc7-4130-5ff9-94f7-664bd0a95c65",
+                    "gtin": "00196608065692"
+                },
+                {
+                    "size": "8",
+                    "sku": "455b5151-9310-5154-9a89-c7267e9d087b",
+                    "gtin": "00196608065708"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "945591e4-d977-5b9b-8657-59985a5af3e7",
+                    "gtin": "00196608065715"
+                },
+                {
+                    "size": "9",
+                    "sku": "8b90ff58-4d35-5003-9966-1afc346bfa5d",
+                    "gtin": "00196608065722"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "aede4a20-976d-522e-971f-2a91cf10f991",
+                    "gtin": "00196608065739"
+                },
+                {
+                    "size": "10",
+                    "sku": "d0b6fadd-21bb-5c34-b136-023ebe2c88ba",
+                    "gtin": "00196608065746"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "33edd5fe-bef4-5d56-8112-a92f020711ef",
+                    "gtin": "00196608065753"
+                },
+                {
+                    "size": "11",
+                    "sku": "50836b5b-9c46-52bb-a574-33ff158dc7e0",
+                    "gtin": "00196608065760"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "b30442d9-76de-515d-967d-65899fcc9464",
+                    "gtin": "00196608065777"
+                },
+                {
+                    "size": "12",
+                    "sku": "4045434f-7ea3-50e2-af36-def7be8e774d",
+                    "gtin": "00196608065784"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "a2e9d953-02b1-5050-ae29-56f381eb7748",
+                    "gtin": "00196608065791"
+                },
+                {
+                    "size": "13",
+                    "sku": "a8334710-95b8-5d9e-85a8-19e93604371c",
+                    "gtin": "00196608065807"
+                },
+                {
+                    "size": "14",
+                    "sku": "c4257be8-3f1b-5872-8d6b-a43fed582892",
+                    "gtin": "00196608065814"
+                },
+                {
+                    "size": "15",
+                    "sku": "d813a266-d5b7-5bd7-a42b-fee4a4c9592e",
+                    "gtin": "00196608065821"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 140,
+            "color": "DV7186-301"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "aa4c4f75-61eb-4dd5-9480-e38902551823",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 160,
+            "name": "NIKE REACTX INFINITY RUN 4",
+            "country": "us",
+            "prodigyId": "1012263756",
+            "cloudProductId": "1adfc052-5bbe-59cd-b274-e3277abdd744",
+            "subCategory": [
+                "Running",
+                "Walking"
+            ],
+            "skuData": [
+                {
+                    "size": "6",
+                    "sku": "99475f59-bceb-571f-89cc-2d175c9ae7c3",
+                    "gtin": "00196607688342"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "f3f0fe3e-4848-5637-9ba0-37e18ac5dcce",
+                    "gtin": "00196607688359"
+                },
+                {
+                    "size": "7",
+                    "sku": "33ef3a8e-7f4e-59f3-aed7-750761d2032b",
+                    "gtin": "00196607688366"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "b85e5cee-44ef-5139-bae6-b9cb44747b31",
+                    "gtin": "00196607688373"
+                },
+                {
+                    "size": "8",
+                    "sku": "17a81515-20ff-5bf8-8e87-7a160a65e062",
+                    "gtin": "00196607688380"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "4d00e246-1928-5f8d-b90c-b6c050d76174",
+                    "gtin": "00196607688397"
+                },
+                {
+                    "size": "9",
+                    "sku": "83ebef0c-056c-5d6b-bf5e-08688be7aa4d",
+                    "gtin": "00196607688403"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "36eed3ab-d9b6-5260-92bc-26745223cd90",
+                    "gtin": "00196607688410"
+                },
+                {
+                    "size": "10",
+                    "sku": "b5520148-2409-56b7-a74c-8dd50d884c2b",
+                    "gtin": "00196607688427"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "f4a1a130-bf69-5acd-bfea-84ee8eadfbe6",
+                    "gtin": "00196607688434"
+                },
+                {
+                    "size": "11",
+                    "sku": "5b8c0fab-ac5b-5167-84bc-5f8663271dc9",
+                    "gtin": "00196607688441"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "54b6da68-58f6-5436-970a-a1488425317d",
+                    "gtin": "00196607688458"
+                },
+                {
+                    "size": "12",
+                    "sku": "e4f1f841-f4fc-5f93-87b1-1070fb709633",
+                    "gtin": "00196607688465"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "542786a3-9b0b-5374-9cba-a12239158919",
+                    "gtin": "00196607688472"
+                },
+                {
+                    "size": "13",
+                    "sku": "32000bea-2384-5276-bbfe-d6d244fe273e",
+                    "gtin": "00196607688489"
+                },
+                {
+                    "size": "14",
+                    "sku": "42352e90-2a72-5b26-9d4e-35d0bf067aa3",
+                    "gtin": "00196607688496"
+                },
+                {
+                    "size": "15",
+                    "sku": "068091f5-6737-52e2-87a6-583408752b1b",
+                    "gtin": "00196607688502"
+                },
+                {
+                    "size": "16",
+                    "sku": "3ceb97ce-f0c0-5e45-8e4c-0b0a9099c27b",
+                    "gtin": "00196607688519"
+                },
+                {
+                    "size": "17",
+                    "sku": "d5300b16-5bd5-5f91-b97d-1bcfcd5b6300",
+                    "gtin": "00196607688526"
+                },
+                {
+                    "size": "18",
+                    "sku": "494acf5f-8c97-5508-928c-7e07f3b2c5a1",
+                    "gtin": "00196607688533"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 160,
+            "color": "DR2665-100"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "d76eb055-1d44-4e41-b269-015271b85139",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 180,
+            "name": "NIKE ZOOMX INVINCIBLE RUN FK 3",
+            "country": "us",
+            "prodigyId": "1012549802",
+            "cloudProductId": "aaf169ae-a9fc-5eb3-9e73-79550529e2f8",
+            "subCategory": [
+                "Running",
+                "Walking"
+            ],
+            "skuData": [
+                {
+                    "size": "6",
+                    "sku": "2b4d336d-6c9e-5776-9289-e923b3112fc0",
+                    "gtin": "00196609018574"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "5682f9b7-13bc-5842-9381-a8b914749117",
+                    "gtin": "00196609018581"
+                },
+                {
+                    "size": "7",
+                    "sku": "fd5591d8-e52a-5274-99de-c19fec6428ca",
+                    "gtin": "00196609018598"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "8f068d92-bedc-5b34-b76c-f4700860806f",
+                    "gtin": "00196609018604"
+                },
+                {
+                    "size": "8",
+                    "sku": "0b9acd19-6fe1-5052-ac8b-b8204412e36d",
+                    "gtin": "00196609018611"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "e548da19-8dd3-55a2-a7bf-ae73db1290d0",
+                    "gtin": "00196609018628"
+                },
+                {
+                    "size": "9",
+                    "sku": "32134a64-8a13-5244-8c65-5e53e4259e03",
+                    "gtin": "00196609018635"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "9b1335aa-39f7-5bb8-8e0f-05a98e8fea96",
+                    "gtin": "00196609018642"
+                },
+                {
+                    "size": "10",
+                    "sku": "eec90a75-0767-5cb1-8ad9-633ff22496ec",
+                    "gtin": "00196609018659"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "55fce7f8-29a5-5aee-b034-b739beea1079",
+                    "gtin": "00196609018666"
+                },
+                {
+                    "size": "11",
+                    "sku": "20a25539-4572-5f70-ba50-601ff3717f39",
+                    "gtin": "00196609018673"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "8fc14d29-da58-51ed-a460-f3045bbdf505",
+                    "gtin": "00196609018680"
+                },
+                {
+                    "size": "12",
+                    "sku": "60b3967c-ec50-5cce-a55f-f9331ef3e3ae",
+                    "gtin": "00196609018697"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "ae89d584-6d0f-5a1a-afd3-9454bfe4e043",
+                    "gtin": "00196609018703"
+                },
+                {
+                    "size": "13",
+                    "sku": "49e56240-1265-524a-acd0-83da18bc20c6",
+                    "gtin": "00196609018710"
+                },
+                {
+                    "size": "14",
+                    "sku": "89374aae-d0eb-5659-bf6d-d225f6b5ba52",
+                    "gtin": "00196609018727"
+                },
+                {
+                    "size": "15",
+                    "sku": "f9272e4c-c7fe-58ec-a8b2-860d7f36d448",
+                    "gtin": "00196609018734"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 180,
+            "color": "DR2615-002"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "00cc60b9-81af-3058-8982-1bd3d2733724",
+            "isNikeByYou": true,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 160,
+            "name": "AIR MAX 270",
+            "country": "us",
+            "prodigyId": "12016993",
+            "cloudProductId": "54c97ad5-3e2d-579f-9071-fb0053162774",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "6",
+                    "sku": "566fbde2-5f50-5f62-a5f4-a4e68350d880",
+                    "gtin": "00888412058037"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "e5cc940a-2fd9-5091-8c53-56271f048005",
+                    "gtin": "00888412058044"
+                },
+                {
+                    "size": "7",
+                    "sku": "80b32f23-861e-54b5-8837-7d202690b155",
+                    "gtin": "00888412058051"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "3f4aaf08-be79-5c6c-99e7-d04aaee12e0a",
+                    "gtin": "00888412058068"
+                },
+                {
+                    "size": "8",
+                    "sku": "54bd8aa0-cff6-56a9-ac5c-6fa076bef6ed",
+                    "gtin": "00888412058075"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "ec5ee7de-0a56-5d3d-984f-071701474f29",
+                    "gtin": "00888412058082"
+                },
+                {
+                    "size": "9",
+                    "sku": "4b20df35-c3c7-5682-83ad-371f01faf51c",
+                    "gtin": "00888412058099"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "d5e611be-29f7-55a8-b3d6-9acd28df699d",
+                    "gtin": "00888412058105"
+                },
+                {
+                    "size": "10",
+                    "sku": "6a92c141-552f-55f6-9b52-78d64246588a",
+                    "gtin": "00888412058112"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "42aa7a97-f631-572d-942d-b9ecfebc9c0e",
+                    "gtin": "00888412058129"
+                },
+                {
+                    "size": "11",
+                    "sku": "ad9df87c-35da-5261-9f14-ec123b835858",
+                    "gtin": "00888412058136"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "882094c8-bdc0-585c-a5d3-05da30e27fe7",
+                    "gtin": "00888412058143"
+                },
+                {
+                    "size": "12",
+                    "sku": "f6ebc189-2f6e-5388-ae9f-678060c082bb",
+                    "gtin": "00888412058150"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "95cdf1a3-95c4-5aeb-ad8a-d7088063a29e",
+                    "gtin": "00888412058167"
+                },
+                {
+                    "size": "13",
+                    "sku": "ee9e491c-1efd-53cc-afa4-d31edde94a6d",
+                    "gtin": "00888412058174"
+                },
+                {
+                    "size": "14",
+                    "sku": "ce98bdfe-7ef8-5e3b-b465-ec5b85d21158",
+                    "gtin": "00888412058181"
+                },
+                {
+                    "size": "15",
+                    "sku": "d2f9ae18-2f73-598b-96ca-8575f9b00c31",
+                    "gtin": "00888412058198"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 160,
+            "color": "AH8050-100"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "f8c543f9-d0e8-451c-9f61-f71afb44516e",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 150,
+            "name": "NIKE AIR MAX PULSE",
+            "country": "us",
+            "prodigyId": "1012333693",
+            "cloudProductId": "f9f0453e-d96a-5d00-96a9-12125bbe4881",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "6",
+                    "sku": "dd84f002-6e71-5992-9e67-ad80d28e9dc0",
+                    "gtin": "00196608194637"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "5e355f6b-3165-5a3b-91c2-3610d78045a3",
+                    "gtin": "00196608194644"
+                },
+                {
+                    "size": "7",
+                    "sku": "f0550958-2da3-50c2-87d8-f8a15efb1e43",
+                    "gtin": "00196608194651"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "3efb1af7-bd70-518c-9dfc-805fabd74a97",
+                    "gtin": "00196608194668"
+                },
+                {
+                    "size": "8",
+                    "sku": "90b008fb-9f3a-5a3a-9d83-e1ca55d45ff1",
+                    "gtin": "00196608194675"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "ff1e7cc2-c5fd-58a7-ad8e-5aa8e623f357",
+                    "gtin": "00196608194682"
+                },
+                {
+                    "size": "9",
+                    "sku": "68e46f59-45be-509e-a656-cfcef17fe310",
+                    "gtin": "00196608194699"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "d977097b-92ce-514e-a187-1a34ee183333",
+                    "gtin": "00196608194705"
+                },
+                {
+                    "size": "10",
+                    "sku": "5b144583-9f66-5fe3-82ec-efb36b7285ee",
+                    "gtin": "00196608194712"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "6e999819-18d5-5485-bc66-54ca1f64aa04",
+                    "gtin": "00196608194729"
+                },
+                {
+                    "size": "11",
+                    "sku": "859bc87b-4a86-5b4d-b9b9-648361f6c346",
+                    "gtin": "00196608194736"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "d4b28b17-e10a-5a37-83b1-5b636dafd5b6",
+                    "gtin": "00196608194743"
+                },
+                {
+                    "size": "12",
+                    "sku": "c297eda0-f1e6-5b78-b5f0-4de96efe481e",
+                    "gtin": "00196608194750"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "94b08bf5-aade-50ed-b573-8727b48e0d62",
+                    "gtin": "00196608194767"
+                },
+                {
+                    "size": "13",
+                    "sku": "7a4cc1c8-5ea8-504d-831f-445271473e6d",
+                    "gtin": "00196608194774"
+                },
+                {
+                    "size": "14",
+                    "sku": "d2404cfd-e729-59d1-b508-be29a538517d",
+                    "gtin": "00196608194781"
+                },
+                {
+                    "size": "15",
+                    "sku": "a481b326-d4d7-57f3-9969-5125840ec8ea",
+                    "gtin": "00196608194798"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 150,
+            "color": "DR0453-101"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "daa00744-fd96-416f-87e4-08ef56645624",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Jordan",
+            "currentPrice": 225,
+            "name": "AIR JORDAN 5 RETRO SE",
+            "country": "us",
+            "prodigyId": "1012365865",
+            "cloudProductId": "c6f99db9-c1e7-517b-9dc0-de4d91e098f7",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "3.5",
+                    "sku": "6383ad65-7e7a-52c3-8a5e-a90df64358db",
+                    "gtin": "00196609145010"
+                },
+                {
+                    "size": "4",
+                    "sku": "9ad407c2-bb37-5ca3-82d4-c3d1bc1b5ec2",
+                    "gtin": "00196609145027"
+                },
+                {
+                    "size": "4.5",
+                    "sku": "f49bb692-27ff-5ad2-82f1-2cd1349d9f1b",
+                    "gtin": "00196609145034"
+                },
+                {
+                    "size": "5",
+                    "sku": "2eac7d07-01db-5a65-9290-8d7c0dae3d58",
+                    "gtin": "00196609145041"
+                },
+                {
+                    "size": "5.5",
+                    "sku": "e0a86038-617f-53ab-b8d3-7e597c8f53cf",
+                    "gtin": "00196609145058"
+                },
+                {
+                    "size": "6",
+                    "sku": "79b34f94-0034-5c3a-a560-7f21ca8089ca",
+                    "gtin": "00196609145065"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "f42244e5-3396-517e-b678-6d9503798349",
+                    "gtin": "00196609145072"
+                },
+                {
+                    "size": "7",
+                    "sku": "6ce739e0-ebf8-5e96-a6e6-721d54745930",
+                    "gtin": "00196608340584"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "0d7c0ac8-a5fc-521c-b0df-52b6dd6c9113",
+                    "gtin": "00196608340591"
+                },
+                {
+                    "size": "8",
+                    "sku": "45ff71ed-6c0c-5732-9ce3-599f4169cebc",
+                    "gtin": "00196608340607"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "209820ce-65ac-5a4e-85eb-b6d7593fd19c",
+                    "gtin": "00196608340614"
+                },
+                {
+                    "size": "9",
+                    "sku": "2032f9e4-86f7-5d78-86c5-0799b9b15fcf",
+                    "gtin": "00196608340621"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "cec2b0f4-8024-5d71-a5e4-161e42e14b99",
+                    "gtin": "00196608340638"
+                },
+                {
+                    "size": "10",
+                    "sku": "c5ea087b-edb8-5c04-99f0-bed148899e34",
+                    "gtin": "00196608340645"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "b4b7805e-8c5e-5d6c-8af3-ab47c2e4ec96",
+                    "gtin": "00196608340652"
+                },
+                {
+                    "size": "11",
+                    "sku": "309225fa-7d5a-5927-9de7-c861592f7eb1",
+                    "gtin": "00196608340669"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "35dc4e50-34a0-5f7d-9460-03526ee1bc98",
+                    "gtin": "00196608340676"
+                },
+                {
+                    "size": "12",
+                    "sku": "ed9029a4-4154-5369-86ac-41826bd4d17a",
+                    "gtin": "00196608340683"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "4bcd518a-f0ec-53d5-a6b6-5a0bc70e55ec",
+                    "gtin": "00196608340690"
+                },
+                {
+                    "size": "13",
+                    "sku": "9944aadc-fa8f-584e-bc3a-37cb3f7af920",
+                    "gtin": "00196608340706"
+                },
+                {
+                    "size": "14",
+                    "sku": "15eee1b4-7c87-5438-99e2-87826e22db79",
+                    "gtin": "00196608340713"
+                },
+                {
+                    "size": "15",
+                    "sku": "0e10c150-a52a-5979-b57d-2efffea56111",
+                    "gtin": "00196608340720"
+                },
+                {
+                    "size": "16",
+                    "sku": "12032def-f7cc-5ddb-aa95-b98d9b583fe1",
+                    "gtin": "00196608340737"
+                },
+                {
+                    "size": "17",
+                    "sku": "a9f6a9a3-798b-57a6-b3e8-4dfc5631fb88",
+                    "gtin": "00196608340744"
+                },
+                {
+                    "size": "18",
+                    "sku": "c32c432d-d6de-53bf-b5f9-9073d46be171",
+                    "gtin": "00196608340751"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 225,
+            "color": "DZ4131-600"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "cb99084d-b58c-4ec3-b865-3adb202b8f45",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Jordan",
+            "currentPrice": 200,
+            "name": "AIR JORDAN 12 RETRO",
+            "country": "us",
+            "prodigyId": "1012356681",
+            "cloudProductId": "d72bb6d7-bf0b-54f9-81e9-a40f761af196",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "7",
+                    "sku": "5c5caf3c-83aa-551f-8f93-8caf6eed0bfd",
+                    "gtin": "00196608220022"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "7a2e1af0-d034-589c-839e-940e87c83b22",
+                    "gtin": "00196608220039"
+                },
+                {
+                    "size": "8",
+                    "sku": "4c839c6c-1471-55cd-b28d-44569e4ac2b1",
+                    "gtin": "00196608220046"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "65f52508-de77-59c2-8b0e-176a07ff3585",
+                    "gtin": "00196608220053"
+                },
+                {
+                    "size": "9",
+                    "sku": "eb415a4b-c793-521e-9176-22fb5d01def8",
+                    "gtin": "00196608220060"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "f6d891c3-7ea8-54c5-837e-448dc67021b9",
+                    "gtin": "00196608220077"
+                },
+                {
+                    "size": "10",
+                    "sku": "e01eb6dc-e15a-59c9-babc-066fe670feef",
+                    "gtin": "00196608220084"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "06491d77-60cc-5fc7-a6e4-764d8a747189",
+                    "gtin": "00196608220091"
+                },
+                {
+                    "size": "11",
+                    "sku": "03d96cbc-58a0-569e-b218-4721b200a4d2",
+                    "gtin": "00196608220107"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "66310025-f71a-5502-a72c-8f3a27772114",
+                    "gtin": "00196608220114"
+                },
+                {
+                    "size": "12",
+                    "sku": "f33947f1-06c8-596b-9eb6-545c213a5b9d",
+                    "gtin": "00196608220121"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "6ad960a1-f251-5ed2-8eac-b4daa56826ed",
+                    "gtin": "00196608220138"
+                },
+                {
+                    "size": "13",
+                    "sku": "490169da-e15a-5040-b33a-350848115777",
+                    "gtin": "00196608220145"
+                },
+                {
+                    "size": "14",
+                    "sku": "5d38fae8-dbaa-56c5-82a0-bd74b5fbce99",
+                    "gtin": "00196608220152"
+                },
+                {
+                    "size": "15",
+                    "sku": "2275d7b5-6791-56e9-874a-38032a4a32d2",
+                    "gtin": "00196608220169"
+                },
+                {
+                    "size": "16",
+                    "sku": "15fcf50f-2e8b-5d22-812b-f19b187085a1",
+                    "gtin": "00196608220176"
+                },
+                {
+                    "size": "17",
+                    "sku": "415d8acf-d84c-556b-b57a-ce993aff6300",
+                    "gtin": "00196608220183"
+                },
+                {
+                    "size": "18",
+                    "sku": "894d8e3d-d630-5782-a5d9-315d8a01bcd7",
+                    "gtin": "00196608220190"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 200,
+            "color": "CT8013-057"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "f1f10b1a-7c51-4772-bfed-d0d8c36c80d8",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Jordan",
+            "currentPrice": 140,
+            "name": "AIR JORDAN 1 RETRO LOW OG",
+            "country": "us",
+            "prodigyId": "1012356686",
+            "cloudProductId": "a28b2a1c-84a9-5096-8391-f6a09b524769",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "3.5",
+                    "sku": "17165ebd-1f82-55d6-b1f4-3c3aa085e33d",
+                    "gtin": "00196608220787"
+                },
+                {
+                    "size": "4",
+                    "sku": "722311c6-90f4-5da7-9e00-03251c3dab1c",
+                    "gtin": "00196608220794"
+                },
+                {
+                    "size": "4.5",
+                    "sku": "ef12b5ca-f8f7-5196-9f91-7b1f38df540a",
+                    "gtin": "00196608220800"
+                },
+                {
+                    "size": "5",
+                    "sku": "344ce4db-13b0-5281-aa4d-33c221396e27",
+                    "gtin": "00196608220817"
+                },
+                {
+                    "size": "5.5",
+                    "sku": "b84c3d30-b820-52d3-b87b-93c410e171de",
+                    "gtin": "00196608220824"
+                },
+                {
+                    "size": "6",
+                    "sku": "8ce376c6-5118-5d20-822c-d14a3f357625",
+                    "gtin": "00196608220831"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "bafa190f-15cf-5dd4-9bd0-94d76cef338b",
+                    "gtin": "00196608220848"
+                },
+                {
+                    "size": "7",
+                    "sku": "a164c37c-ffa2-57c0-bd95-d51d4ad4d97f",
+                    "gtin": "00196608220855"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "d991ca88-52ea-5ab8-ae14-9b8cbec22d90",
+                    "gtin": "00196608220862"
+                },
+                {
+                    "size": "8",
+                    "sku": "7b73d58b-b2c0-5e05-aa2f-f7f39b117fc9",
+                    "gtin": "00196608220879"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "6929aa41-8cc8-5ebe-9bdc-4127caa7c44f",
+                    "gtin": "00196608220886"
+                },
+                {
+                    "size": "9",
+                    "sku": "0856ffc5-7018-5d7b-b5df-a8ca7fbdb998",
+                    "gtin": "00196608220893"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "0382801a-be2c-528b-84a2-81be0e654e10",
+                    "gtin": "00196608220909"
+                },
+                {
+                    "size": "10",
+                    "sku": "3ca82feb-a34c-55ba-947e-e9aa82664c54",
+                    "gtin": "00196608220916"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "cb01cbf3-b2f4-5d46-a61d-48b71d3f0a2b",
+                    "gtin": "00196608220923"
+                },
+                {
+                    "size": "11",
+                    "sku": "530490cf-2982-573f-9e4b-e41e28436a80",
+                    "gtin": "00196608220930"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "e68ec01e-5041-5923-a9cb-4273c767ea6c",
+                    "gtin": "00196608220947"
+                },
+                {
+                    "size": "12",
+                    "sku": "224b42cf-53e5-56a5-b9ce-aa2f3c832ba4",
+                    "gtin": "00196608220954"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "17b0eb78-3054-5c78-a1a2-ffe115e2a18f",
+                    "gtin": "00196608220961"
+                },
+                {
+                    "size": "13",
+                    "sku": "16dca5d3-a775-5da6-8078-a7dd59af7458",
+                    "gtin": "00196608220978"
+                },
+                {
+                    "size": "14",
+                    "sku": "58b209c0-9d0c-592b-a447-5f1318c95925",
+                    "gtin": "00196608220985"
+                },
+                {
+                    "size": "15",
+                    "sku": "d9d5aa75-95fa-5e8e-a193-46561a5e8689",
+                    "gtin": "00196608220992"
+                },
+                {
+                    "size": "16",
+                    "sku": "a82381e9-1acf-59c8-abd5-9e8c448a77ec",
+                    "gtin": "00196608221005"
+                },
+                {
+                    "size": "17",
+                    "sku": "cc4bbf0b-c0d6-5512-91f3-212f358343d8",
+                    "gtin": "00196608221012"
+                },
+                {
+                    "size": "18",
+                    "sku": "3f411ff4-a131-5ed8-93f3-3b8955a154d3",
+                    "gtin": "00196608221029"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 140,
+            "color": "CZ0790-101"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "45861eb8-4be5-4b43-8a58-d8e4df460222",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Jordan",
+            "currentPrice": 120,
+            "name": "AJKO 1 LOW",
+            "country": "us",
+            "prodigyId": "1011863718",
+            "cloudProductId": "c4b3a45d-0b0a-59af-a814-b7c45fed7a27",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "3.5",
+                    "sku": "c1f2e78b-ec20-55d5-af43-27f9535aa05a",
+                    "gtin": "00196606016214"
+                },
+                {
+                    "size": "4",
+                    "sku": "1cc9ec43-8284-5697-87c8-2158f6c5c3b3",
+                    "gtin": "00196606016221"
+                },
+                {
+                    "size": "4.5",
+                    "sku": "e4f8399b-7af5-502b-adda-dc35f778991a",
+                    "gtin": "00196606016238"
+                },
+                {
+                    "size": "5",
+                    "sku": "e4619a51-47dd-5416-8378-5fcd3ee6895b",
+                    "gtin": "00196606016245"
+                },
+                {
+                    "size": "5.5",
+                    "sku": "200d4814-6738-5557-a169-0edb8baf41b9",
+                    "gtin": "00196606016252"
+                },
+                {
+                    "size": "6",
+                    "sku": "09ce805b-a7e8-5fe7-840c-88eb9cd901c8",
+                    "gtin": "00196606016269"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "4082fe6b-856e-5a28-b6c0-f10163caf4c2",
+                    "gtin": "00196606016276"
+                },
+                {
+                    "size": "7",
+                    "sku": "70ee3696-a1b5-5fee-a3c1-e03485c6f90f",
+                    "gtin": "00196606016283"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "6b062397-2e3b-54e8-b4a5-da8e6a4f7bbe",
+                    "gtin": "00196606016290"
+                },
+                {
+                    "size": "8",
+                    "sku": "7f2f8e25-2e68-53ac-b50c-5a96b48dbc15",
+                    "gtin": "00196606016306"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "e2a1a77b-4aa7-5cc0-9d2a-03092b738fe3",
+                    "gtin": "00196606016313"
+                },
+                {
+                    "size": "9",
+                    "sku": "23d838be-210a-521b-8674-f04badb72f03",
+                    "gtin": "00196606016320"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "aecc2845-d0c1-55fa-a222-f5a269da639d",
+                    "gtin": "00196606016337"
+                },
+                {
+                    "size": "10",
+                    "sku": "04535490-22b9-543e-876c-0a576e826799",
+                    "gtin": "00196606016344"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "08468927-a3d3-5aa1-ba58-871cc4d979a2",
+                    "gtin": "00196606016351"
+                },
+                {
+                    "size": "11",
+                    "sku": "8618194e-c47a-5a34-9368-f631227cb868",
+                    "gtin": "00196606016368"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "a909b4a5-306c-5cc6-9a12-f76b79660b64",
+                    "gtin": "00196606016375"
+                },
+                {
+                    "size": "12",
+                    "sku": "95d9543f-0c1c-5782-843f-772cb0fb3030",
+                    "gtin": "00196606016382"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "7d68306a-a0a5-5a39-b59a-cc86fdff08ce",
+                    "gtin": "00196606016399"
+                },
+                {
+                    "size": "13",
+                    "sku": "1923f039-988f-532c-9d25-42a78d2cde8a",
+                    "gtin": "00196606016405"
+                },
+                {
+                    "size": "14",
+                    "sku": "808bf58a-c601-513a-95f2-f2425456aa9b",
+                    "gtin": "00196606016412"
+                },
+                {
+                    "size": "15",
+                    "sku": "0e60f744-59c4-53c1-a5aa-9c6a89e12527",
+                    "gtin": "00196606016429"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 120,
+            "color": "DX4981-006"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "ecf229ef-58c7-4ba2-93b9-cb5a2a45f283",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 210,
+            "name": "AIR VAPORMAX 2023 FK",
+            "country": "us",
+            "prodigyId": "1010047154",
+            "cloudProductId": "349ed64f-b61e-54df-bfea-ffd33fa874e1",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "6",
+                    "sku": "d5feb6d1-20ff-5529-a893-b3078bb975af",
+                    "gtin": "00196604338653"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "b25822ba-de19-5f16-90de-d33f50006d12",
+                    "gtin": "00196604338660"
+                },
+                {
+                    "size": "7",
+                    "sku": "43ef5b50-47b8-51a1-a0d5-de3066f12211",
+                    "gtin": "00196604338677"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "f1fda488-4f8a-58fa-ae29-8797ac65f703",
+                    "gtin": "00196604338684"
+                },
+                {
+                    "size": "8",
+                    "sku": "f8f69c38-21cd-508a-a3b9-f125d092722e",
+                    "gtin": "00196604338691"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "836ba08c-e122-5590-8e7d-0736a2c31370",
+                    "gtin": "00196604338707"
+                },
+                {
+                    "size": "9",
+                    "sku": "a7dc66b1-a4a8-51e3-8aa2-a94da93add54",
+                    "gtin": "00196604338714"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "96629c72-b38e-56b9-905b-86c129d84903",
+                    "gtin": "00196604338721"
+                },
+                {
+                    "size": "10",
+                    "sku": "e05cf04a-222c-5267-8565-69dd4673ebca",
+                    "gtin": "00196604338738"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "5bf012e1-493b-5c50-82bd-5b179acb5082",
+                    "gtin": "00196604338745"
+                },
+                {
+                    "size": "11",
+                    "sku": "883e2d6d-b956-51f4-815e-8420a50348cc",
+                    "gtin": "00196604338752"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "58696405-3da8-55e4-a04a-da8e75d7aca3",
+                    "gtin": "00196604338769"
+                },
+                {
+                    "size": "12",
+                    "sku": "497e1376-341c-52ff-9920-d8625693a59a",
+                    "gtin": "00196604338776"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "7e0be70c-69dd-58dd-ad91-efa2c6ec65b2",
+                    "gtin": "00196604338783"
+                },
+                {
+                    "size": "13",
+                    "sku": "9b8cf4b3-2eca-5fd5-879c-836d939c0a66",
+                    "gtin": "00196604338790"
+                },
+                {
+                    "size": "14",
+                    "sku": "a8acd78e-9d5e-54f4-bca1-b2ef84bb8ae6",
+                    "gtin": "00196604338806"
+                },
+                {
+                    "size": "15",
+                    "sku": "ed9ab826-e843-5409-bdb1-e5f0f9a39faf",
+                    "gtin": "00196604338813"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 210,
+            "color": "DV1678-001"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "aa937f7e-7982-3cb9-9a5a-0bdc4ca4c3c0",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 210,
+            "name": "AIR VAPORMAX PLUS",
+            "country": "us",
+            "prodigyId": "12114716",
+            "cloudProductId": "da365946-980f-5b32-a16f-dd2a9b7bd2ee",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "7",
+                    "sku": "59d98968-e6f8-53d5-93b9-56303a0a1294",
+                    "gtin": "00675911766972"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "a3432942-41a0-5eec-a7ca-39a4d9a0f97a",
+                    "gtin": "00675911768327"
+                },
+                {
+                    "size": "8",
+                    "sku": "897203c3-d439-5719-9837-b992cf7321d2",
+                    "gtin": "00675911768334"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "c6a0523c-9062-5548-8b43-9238fae33894",
+                    "gtin": "00675911770870"
+                },
+                {
+                    "size": "9",
+                    "sku": "b4d80add-e03b-5f35-9598-9fdad036f2f5",
+                    "gtin": "00675911774472"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "78fce0d7-002d-5a5d-b4fe-0ca681a15d90",
+                    "gtin": "00675911776018"
+                },
+                {
+                    "size": "10",
+                    "sku": "00b1c292-1481-5cb6-ab5c-67f1982aa058",
+                    "gtin": "00675911776025"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "ddd31360-f1d4-5eab-b313-a1799e8d0c60",
+                    "gtin": "00675911776131"
+                },
+                {
+                    "size": "11",
+                    "sku": "b9a181b8-5503-5ff2-8196-b2d39ad838b9",
+                    "gtin": "00675911776148"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "22e8caff-624a-508e-8c96-584ea1d90806",
+                    "gtin": "00675911776155"
+                },
+                {
+                    "size": "12",
+                    "sku": "e9586b55-b7bb-5b68-a16a-c1479b27772b",
+                    "gtin": "00675911776377"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "5001b169-d153-5b01-ab29-fa3300555ab0",
+                    "gtin": "00675911776384"
+                },
+                {
+                    "size": "13",
+                    "sku": "b183f065-43a8-58ec-a784-125ac8230558",
+                    "gtin": "00675911776391"
+                },
+                {
+                    "size": "14",
+                    "sku": "fdf742fe-44a4-5f02-9ef3-56178a6a0839",
+                    "gtin": "00675911781067"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 210,
+            "color": "924453-004"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "763fd173-5cbd-424d-8681-68ab4ca7d8e3",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Jordan",
+            "currentPrice": 135,
+            "name": "AIR JORDAN 1 MID SE CRAFT",
+            "country": "us",
+            "prodigyId": "1012365379",
+            "cloudProductId": "84cdedcd-2de2-57a5-96ad-620bb5211e23",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "7",
+                    "sku": "92851b56-1bb5-5312-a304-eceebd6ebd36",
+                    "gtin": "00196608298939"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "50306203-bbfb-5ee6-aa07-5603389c31e6",
+                    "gtin": "00196608298946"
+                },
+                {
+                    "size": "8",
+                    "sku": "816b2f7b-0f8c-5e84-b9c0-1f718baf5dbb",
+                    "gtin": "00196608298953"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "fcb7e61d-7e8a-56ad-b4ba-a6c39430a565",
+                    "gtin": "00196608298960"
+                },
+                {
+                    "size": "9",
+                    "sku": "e12042d1-a9a7-5d1f-a8fa-a11e0cbcfe40",
+                    "gtin": "00196608298977"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "0881bb77-2170-5608-be3f-cb128f3e84d7",
+                    "gtin": "00196608298984"
+                },
+                {
+                    "size": "10",
+                    "sku": "6445cd4a-a93d-5409-879d-7ef09b6b740c",
+                    "gtin": "00196608298991"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "ce88e894-12c6-505c-b59e-03885f1b6b8c",
+                    "gtin": "00196608299004"
+                },
+                {
+                    "size": "11",
+                    "sku": "213a0bb2-2af4-5280-8931-7e0b08b0364c",
+                    "gtin": "00196608299011"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "9b4c5326-1943-5495-9325-f3e379a3a4fb",
+                    "gtin": "00196608299028"
+                },
+                {
+                    "size": "12",
+                    "sku": "0b720346-9e25-5984-99da-7a826521535c",
+                    "gtin": "00196608299035"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "78c7bd6d-1efa-5363-a9ad-50f98f0f048d",
+                    "gtin": "00196608299042"
+                },
+                {
+                    "size": "13",
+                    "sku": "0aadc515-908f-56ae-a2c8-83958c31d3b1",
+                    "gtin": "00196608299059"
+                },
+                {
+                    "size": "14",
+                    "sku": "1c91f77c-dfe0-5517-9498-4b50f40fc118",
+                    "gtin": "00196608299066"
+                },
+                {
+                    "size": "15",
+                    "sku": "2f01f4a0-e4f2-5e41-80d5-df9257638f96",
+                    "gtin": "00196608299073"
+                },
+                {
+                    "size": "16",
+                    "sku": "b58cebac-2769-5a7d-942d-916c80ba5777",
+                    "gtin": "00196608299080"
+                },
+                {
+                    "size": "17",
+                    "sku": "aa8cffc7-9a54-5853-b331-c4e88789c15b",
+                    "gtin": "00196608299097"
+                },
+                {
+                    "size": "18",
+                    "sku": "a3b2ff79-6faf-5cce-89f6-2003807adfd2",
+                    "gtin": "00196608299103"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 135,
+            "color": "DZ4136-002"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "d1bba884-3ca8-4925-b887-10d762d73445",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Jordan",
+            "currentPrice": 135,
+            "name": "AIR JORDAN 1 MID SE",
+            "country": "us",
+            "prodigyId": "1012365377",
+            "cloudProductId": "4432ad6d-a44d-598b-83a8-eed5c32f2a4f",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "7",
+                    "sku": "3ee248f9-f210-507e-a49c-fd6e363c2f8a",
+                    "gtin": "00196608300113"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "abba09d4-dd33-52d7-bbd8-4d66030ecd3f",
+                    "gtin": "00196608300120"
+                },
+                {
+                    "size": "8",
+                    "sku": "6b29452a-da27-53b9-990f-9bc5e5e1c855",
+                    "gtin": "00196608300137"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "5a2e2834-9e5f-5ec1-ae83-2d821c08b31e",
+                    "gtin": "00196608300144"
+                },
+                {
+                    "size": "9",
+                    "sku": "12c475a1-0098-5241-ac16-556d1dcee5c9",
+                    "gtin": "00196608300151"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "acee17bb-a079-537b-9d13-f47d13c8cccc",
+                    "gtin": "00196608300168"
+                },
+                {
+                    "size": "10",
+                    "sku": "37758558-4c53-505e-b5de-d650a8ae9b64",
+                    "gtin": "00196608300175"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "d0bb5b58-c3a4-5197-bf7b-f9268fa91f40",
+                    "gtin": "00196608300182"
+                },
+                {
+                    "size": "11",
+                    "sku": "53458097-7e03-56c4-a697-75e7ae7471c1",
+                    "gtin": "00196608300199"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "060a7325-92f2-5aad-9c68-1395fec1efe0",
+                    "gtin": "00196608300205"
+                },
+                {
+                    "size": "12",
+                    "sku": "87f6538e-9205-5c74-b9db-3df4cc1b3dc5",
+                    "gtin": "00196608300212"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "451c4c13-7521-5f87-8ba1-0f55deca5a55",
+                    "gtin": "00196608300229"
+                },
+                {
+                    "size": "13",
+                    "sku": "7543b1af-83c7-5c25-bb84-a6d8a20acd29",
+                    "gtin": "00196608300236"
+                },
+                {
+                    "size": "14",
+                    "sku": "b215c066-4cde-57da-aff5-eec5f1289df4",
+                    "gtin": "00196608300243"
+                },
+                {
+                    "size": "15",
+                    "sku": "84a29ad3-6b55-5934-891d-c7ed8f81427f",
+                    "gtin": "00196608300250"
+                },
+                {
+                    "size": "16",
+                    "sku": "c5755366-24c6-566d-a909-eb10fffcfa4b",
+                    "gtin": "00196608300267"
+                },
+                {
+                    "size": "17",
+                    "sku": "555023f4-d507-5ad6-97a7-135514a152a9",
+                    "gtin": "00196608300274"
+                },
+                {
+                    "size": "18",
+                    "sku": "4f8a2e06-f538-5f59-8a45-ac77799cbe7b",
+                    "gtin": "00196608300281"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 135,
+            "color": "FJ4923-008"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "1d8d8f4d-e4ae-47cb-995d-5a11f16cb49b",
+            "isNikeByYou": false,
+            "genders": [
+                "WOMEN",
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 130,
+            "name": "SABRINA 1",
+            "country": "us",
+            "prodigyId": "1012605305",
+            "cloudProductId": "99305543-f25d-5f51-aab7-a32b6e63281a",
+            "subCategory": [
+                "Basketball"
+            ],
+            "skuData": [
+                {
+                    "size": "5",
+                    "sku": "726e5f31-3d40-5ac4-8482-a9b8768daf5e",
+                    "gtin": "00196609465804"
+                },
+                {
+                    "size": "5.5",
+                    "sku": "5bb4889e-d123-5a81-ab59-7ecdec9310e2",
+                    "gtin": "00196609465811"
+                },
+                {
+                    "size": "6",
+                    "sku": "f6f42f78-72b4-5e1c-906d-57316e11cc28",
+                    "gtin": "00196609465828"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "a8ea901c-f1e8-5ad8-9f5f-6cd559ffa84f",
+                    "gtin": "00196609465835"
+                },
+                {
+                    "size": "7",
+                    "sku": "ff427313-ae16-5c0a-a177-199b1a8b089d",
+                    "gtin": "00196609465842"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "fb080b1d-abb9-5429-b2c0-ea14f23c183f",
+                    "gtin": "00196609465859"
+                },
+                {
+                    "size": "8",
+                    "sku": "97faa096-6041-5315-86fe-a0e9dc66a828",
+                    "gtin": "00196609465866"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "7f6ad68d-ccad-55d2-9b4d-9a6864099b34",
+                    "gtin": "00196609465873"
+                },
+                {
+                    "size": "9",
+                    "sku": "daec571e-4d72-5610-a5c4-94ce8d74691a",
+                    "gtin": "00196609465880"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "fa3bb8b4-e8b6-594f-b3fb-e1524c06d7c4",
+                    "gtin": "00196609465897"
+                },
+                {
+                    "size": "10",
+                    "sku": "137cc357-0669-52ff-b9e4-4b8e90e6216a",
+                    "gtin": "00196609465903"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "e7298d4f-87e1-5359-b78f-6e66dfdc4412",
+                    "gtin": "00196609465910"
+                },
+                {
+                    "size": "11",
+                    "sku": "b62073a3-c397-5df1-9fb9-9e09c40096bf",
+                    "gtin": "00196609465927"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "9cb25cd7-0833-5fe3-b634-6722d1fafc7e",
+                    "gtin": "00196609465934"
+                },
+                {
+                    "size": "12",
+                    "sku": "2a755d52-e844-5833-8e53-c2d37a007637",
+                    "gtin": "00196609465941"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "6d7eb066-9a3e-5773-90c3-f9a0e48a85ac",
+                    "gtin": "00196609465958"
+                },
+                {
+                    "size": "13",
+                    "sku": "a386f257-6667-521c-aa12-089982bf953b",
+                    "gtin": "00196609465965"
+                },
+                {
+                    "size": "13.5",
+                    "sku": "10ece947-2533-5a40-ab38-75a8a3c16fdf",
+                    "gtin": "00196609465972"
+                },
+                {
+                    "size": "14",
+                    "sku": "adb82788-a3eb-571a-896e-909a7d4a56f2",
+                    "gtin": "00196609465989"
+                },
+                {
+                    "size": "14.5",
+                    "sku": "1005f81c-de67-56ba-bdca-402876900846",
+                    "gtin": "00196609465996"
+                },
+                {
+                    "size": "15",
+                    "sku": "d52d6216-71e4-5049-ac37-69d99b6bf69c",
+                    "gtin": "00196609466009"
+                },
+                {
+                    "size": "15.5",
+                    "sku": "3a059c92-1a4c-5c16-a31c-c133e828cc1e",
+                    "gtin": "00196609466016"
+                },
+                {
+                    "size": "16",
+                    "sku": "2d67b2d9-b14e-59ea-97ca-11131d18892c",
+                    "gtin": "00196609466023"
+                },
+                {
+                    "size": "16.5",
+                    "sku": "f46bda3b-d0c4-5097-ac59-5a4375aae644",
+                    "gtin": "00196609466030"
+                },
+                {
+                    "size": "17.5",
+                    "sku": "b20e95c5-8a3d-5a4f-8f9c-50632d838431",
+                    "gtin": "00196609466047"
+                },
+                {
+                    "size": "18.5",
+                    "sku": "c924ad05-bd65-5990-b213-d2897c8299e9",
+                    "gtin": "00196609466054"
+                },
+                {
+                    "size": "19.5",
+                    "sku": "b55efe5c-8e1c-5835-b593-6026575f18d5",
+                    "gtin": "00196609466061"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 130,
+            "color": "FQ3381-501"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "a176a950-863c-4e77-bfc0-c156cec090a1",
+            "isNikeByYou": false,
+            "genders": [
+                "WOMEN",
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 170,
+            "name": "NIKE AIR ZOOM G.T. CUT 2",
+            "country": "us",
+            "prodigyId": "1012314589",
+            "cloudProductId": "da4794f6-becc-587d-a0e9-fa0e938e5f7d",
+            "subCategory": [
+                "Basketball"
+            ],
+            "skuData": [
+                {
+                    "size": "3.5",
+                    "sku": "2797b380-5d0e-5c23-b55b-98641a0b9ad0",
+                    "gtin": "00196607677513"
+                },
+                {
+                    "size": "4",
+                    "sku": "08e53f30-e15e-57b4-ad38-68e38739ab6a",
+                    "gtin": "00196607677520"
+                },
+                {
+                    "size": "4.5",
+                    "sku": "1fc2a7b0-c929-5a48-bc4d-3d63dc871e35",
+                    "gtin": "00196607677537"
+                },
+                {
+                    "size": "5",
+                    "sku": "b7d11f89-7c36-5875-82c0-7ef1bd3490fa",
+                    "gtin": "00196607677544"
+                },
+                {
+                    "size": "5.5",
+                    "sku": "30393a49-a019-54d2-9339-397402311f7f",
+                    "gtin": "00196607677551"
+                },
+                {
+                    "size": "6",
+                    "sku": "12191735-587a-5369-a13e-6c5fa14e26ad",
+                    "gtin": "00196607677568"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "43981815-a3f4-51da-a29d-c75b53a6a8ae",
+                    "gtin": "00196607677575"
+                },
+                {
+                    "size": "7",
+                    "sku": "a970e260-e9e1-5a06-af44-c1371b89607e",
+                    "gtin": "00196607677582"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "956155f1-0a2e-56b5-b7d0-a821bffa487b",
+                    "gtin": "00196607677599"
+                },
+                {
+                    "size": "8",
+                    "sku": "e232a17e-8409-5b49-ac28-b5625b1831da",
+                    "gtin": "00196607677605"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "cc550342-5019-5547-a849-9489e38929bd",
+                    "gtin": "00196607677612"
+                },
+                {
+                    "size": "9",
+                    "sku": "0dafa463-ec09-58d8-99d7-c96ef2fe5b55",
+                    "gtin": "00196607677629"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "4e276fa1-33b4-55c1-ada5-10b8d2deb305",
+                    "gtin": "00196607677636"
+                },
+                {
+                    "size": "10",
+                    "sku": "f68b2cbc-a617-50ed-900d-01220194092f",
+                    "gtin": "00196607677643"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "ded0e706-cb79-5ace-a722-12a7c2508886",
+                    "gtin": "00196607677650"
+                },
+                {
+                    "size": "11",
+                    "sku": "adcbe684-4d9f-5725-bb6a-aa89d8258ca7",
+                    "gtin": "00196607677667"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "39609e43-6498-5820-8b37-aaf0b6f39663",
+                    "gtin": "00196607677674"
+                },
+                {
+                    "size": "12",
+                    "sku": "4a94ef1c-075b-5fdf-bbd9-432a1432af1d",
+                    "gtin": "00196607677681"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "9653dd2e-d3c8-5879-bf8b-3f94621b76db",
+                    "gtin": "00196607677698"
+                },
+                {
+                    "size": "13",
+                    "sku": "bca8213a-8dc6-58e2-b7cf-469c14cfe53e",
+                    "gtin": "00196607677704"
+                },
+                {
+                    "size": "13.5",
+                    "sku": "f61e9325-c86b-5482-92af-610ec25f25d6",
+                    "gtin": "00196976809010"
+                },
+                {
+                    "size": "14",
+                    "sku": "b19f6323-5f27-5398-bd26-caeab5911b3e",
+                    "gtin": "00196607677711"
+                },
+                {
+                    "size": "15",
+                    "sku": "dfb0f5f3-a36c-5ec6-89c0-fbf3a985888b",
+                    "gtin": "00196607677728"
+                },
+                {
+                    "size": "16",
+                    "sku": "6faa5a81-6298-5849-8909-29c2d9982e20",
+                    "gtin": "00196607677735"
+                },
+                {
+                    "size": "17",
+                    "sku": "998a598f-1112-5262-803d-5a0cbb34c615",
+                    "gtin": "00196607677742"
+                },
+                {
+                    "size": "18",
+                    "sku": "7ea46eca-35cc-544f-b49c-180792411da0",
+                    "gtin": "00196607677759"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 170,
+            "color": "DJ6015-404"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "d6f4a5bc-6da6-405a-9733-485dcff17404",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 260,
+            "name": "NIKE ZOOMX ULTRAFLY TRAIL",
+            "country": "us",
+            "prodigyId": "1012288545",
+            "cloudProductId": "6ce750ce-4e86-56d3-a1c3-f7aa5bb2b60b",
+            "subCategory": [
+                "Running",
+                "Hiking",
+                "Track & Field"
+            ],
+            "skuData": [
+                {
+                    "size": "6",
+                    "sku": "4ba8f2a2-85bd-58d2-9e09-02163c32b27a",
+                    "gtin": "00196607702994"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "8bf6d140-246d-5130-bd75-eff22be2a5c7",
+                    "gtin": "00196607703007"
+                },
+                {
+                    "size": "7",
+                    "sku": "a123f2d7-6cd6-5aba-a37a-313dd6afe046",
+                    "gtin": "00196607703014"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "0720072c-3e1c-5b01-8990-d4336eaffcc1",
+                    "gtin": "00196607703021"
+                },
+                {
+                    "size": "8",
+                    "sku": "69af4808-f14c-56b3-a0a3-1c1f51fa4074",
+                    "gtin": "00196607703038"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "f2468bb2-eae9-5487-b8e0-bd216b82786d",
+                    "gtin": "00196607703045"
+                },
+                {
+                    "size": "9",
+                    "sku": "f31a5fb4-bfaa-50f9-bb65-20cb8164a25a",
+                    "gtin": "00196607703052"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "e52540d9-a42f-5443-972e-0442b510fc66",
+                    "gtin": "00196607703069"
+                },
+                {
+                    "size": "10",
+                    "sku": "d7b0ef64-bb5e-5462-a3a3-d882d8b40534",
+                    "gtin": "00196607703076"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "7fc62285-df5d-552c-914b-065a417d6392",
+                    "gtin": "00196607703083"
+                },
+                {
+                    "size": "11",
+                    "sku": "37a31a94-5388-581f-815b-741220c043a6",
+                    "gtin": "00196607703090"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "120eb3ff-e0d6-511d-ae42-2d63e67a7ba8",
+                    "gtin": "00196607703106"
+                },
+                {
+                    "size": "12",
+                    "sku": "963855b3-abab-52b5-9b89-3ba9d85ef8ab",
+                    "gtin": "00196607703113"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "b0e5438f-1b39-5bb2-b05a-6846904a010d",
+                    "gtin": "00196607703120"
+                },
+                {
+                    "size": "13",
+                    "sku": "50d2bab7-3b06-572e-8024-f8b5c3dc50a7",
+                    "gtin": "00196607703137"
+                },
+                {
+                    "size": "14",
+                    "sku": "54add008-3199-527c-a715-52d91ed5611b",
+                    "gtin": "00196607703144"
+                },
+                {
+                    "size": "15",
+                    "sku": "96a76586-514a-506a-b00f-a9ad0d04d3b0",
+                    "gtin": "00196607703151"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 260,
+            "color": "DX1978-100"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "8cf4ef58-9c65-482c-a62b-b966bce83a21",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 130,
+            "name": "AIR ZOOM PEGASUS 40",
+            "country": "us",
+            "prodigyId": "1013440810",
+            "cloudProductId": "43df8964-3573-573f-bb5f-60216edd65a3",
+            "subCategory": [
+                "Running"
+            ],
+            "skuData": [
+                {
+                    "size": "6",
+                    "sku": "d98b1da4-122e-5fb5-ac9e-7a30e8c16bc9",
+                    "gtin": "00196969410087"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "652414f7-6e57-5d5a-bb70-cf29fa6e81d2",
+                    "gtin": "00196969410094"
+                },
+                {
+                    "size": "7",
+                    "sku": "44216ac1-66c7-58c5-a240-c9b596067baa",
+                    "gtin": "00196969410100"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "b3e4cb44-e679-500b-8549-527333d9ae91",
+                    "gtin": "00196969410117"
+                },
+                {
+                    "size": "8",
+                    "sku": "8ac22feb-38c9-55de-98d6-68f5d92015b1",
+                    "gtin": "00196969410124"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "a6114a42-c78f-50ed-85eb-a06c687662a5",
+                    "gtin": "00196969410131"
+                },
+                {
+                    "size": "9",
+                    "sku": "5de33cbd-2bbd-5fa9-81f9-1a8e119dc542",
+                    "gtin": "00196969410148"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "a7cf4788-1507-5cd7-b0f3-e6a922208687",
+                    "gtin": "00196969410155"
+                },
+                {
+                    "size": "10",
+                    "sku": "44fe238a-217b-58c1-b619-43962543c092",
+                    "gtin": "00196969410162"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "c515d4cd-cfc0-5d6c-9532-90994c774648",
+                    "gtin": "00196969410179"
+                },
+                {
+                    "size": "11",
+                    "sku": "33407708-c44d-57e2-9fe9-15b61eccc449",
+                    "gtin": "00196969410186"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "a8a69e3d-2e84-528e-99e4-29c1989f5c22",
+                    "gtin": "00196969410193"
+                },
+                {
+                    "size": "12",
+                    "sku": "b1ccb429-256d-5db6-bfc5-65f72e7fd11a",
+                    "gtin": "00196969410209"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "fe0ce5ba-c852-5e4a-ba39-945133b1c39a",
+                    "gtin": "00196969410216"
+                },
+                {
+                    "size": "13",
+                    "sku": "269665da-81e6-5f4a-91e3-8d5d268273b5",
+                    "gtin": "00196969410223"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 130,
+            "color": "FQ6852-081"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "7c49022e-1968-43f0-a732-033aaee49782",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 120,
+            "name": "NIKE DUNK LOW RETRO PRM",
+            "country": "us",
+            "prodigyId": "1012328787",
+            "cloudProductId": "6cc25fc9-14a1-5ea6-b14b-ba75b5ecb730",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "3.5",
+                    "sku": "3fa8772c-4431-5ec8-9870-181f032464b0",
+                    "gtin": "00196608074182"
+                },
+                {
+                    "size": "4",
+                    "sku": "a6faae3d-89fa-5ac2-b6d3-fb9289af75a9",
+                    "gtin": "00196608074199"
+                },
+                {
+                    "size": "4.5",
+                    "sku": "908c3853-c581-5930-b156-d1379e42073f",
+                    "gtin": "00196608074205"
+                },
+                {
+                    "size": "5",
+                    "sku": "09de328a-2123-5893-9366-74737bc0781c",
+                    "gtin": "00196608074212"
+                },
+                {
+                    "size": "5.5",
+                    "sku": "bd99b471-75d4-5032-9f5c-929f6ff3c704",
+                    "gtin": "00196608074229"
+                },
+                {
+                    "size": "6",
+                    "sku": "821d1424-0afd-591c-8a54-c2225db57d8d",
+                    "gtin": "00196608074236"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "56f4bc57-e5e0-5600-aadf-7bbcb101c5c3",
+                    "gtin": "00196608074243"
+                },
+                {
+                    "size": "7",
+                    "sku": "eaa6cd88-51c7-5efd-a6a9-43dc6884d13a",
+                    "gtin": "00196608074250"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "76670cb4-f927-5701-9bea-b7621ceae59c",
+                    "gtin": "00196608074267"
+                },
+                {
+                    "size": "8",
+                    "sku": "2d5d03c1-f113-51b4-a330-93e050589fbc",
+                    "gtin": "00196608074274"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "7b93df5c-34a9-50e8-b36e-1e447b6c45a9",
+                    "gtin": "00196608074281"
+                },
+                {
+                    "size": "9",
+                    "sku": "acd761c8-144a-51d0-b3f0-2bdcf3f54c9c",
+                    "gtin": "00196608074298"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "c6dfbc81-c676-5e26-a82e-886e41881c30",
+                    "gtin": "00196608074304"
+                },
+                {
+                    "size": "10",
+                    "sku": "167e020a-0457-57d6-ae43-34c28a890b40",
+                    "gtin": "00196608074311"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "93269f69-1805-55bf-adab-26b2aae97db5",
+                    "gtin": "00196608074328"
+                },
+                {
+                    "size": "11",
+                    "sku": "63ed7f30-9c30-5447-bf0a-eb0976d231c0",
+                    "gtin": "00196608074335"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "4a7a8c29-f6d2-5e29-a89c-315780c903e8",
+                    "gtin": "00196608074342"
+                },
+                {
+                    "size": "12",
+                    "sku": "7b5c3ef1-7e05-514a-98b1-5e95a063e3f5",
+                    "gtin": "00196608074359"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "8a9a0c23-2775-5725-87cc-47c911bedd82",
+                    "gtin": "00196608074366"
+                },
+                {
+                    "size": "13",
+                    "sku": "f7cae39b-3ae8-57ff-94e0-8dc3a7b671cc",
+                    "gtin": "00196608074373"
+                },
+                {
+                    "size": "14",
+                    "sku": "1c9db05c-d79e-5a3a-a52f-7db315ab6e1a",
+                    "gtin": "00196608074380"
+                },
+                {
+                    "size": "15",
+                    "sku": "75a9fa70-d5c5-5f37-9161-69beba2fcc4c",
+                    "gtin": "00196608074397"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 120,
+            "color": "DZ2538-100"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "b369f85a-ce6c-4ab9-8298-7aa4417237f8",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 110,
+            "name": "NIKE DUNK LOW RETRO",
+            "country": "us",
+            "prodigyId": "1012328976",
+            "cloudProductId": "c0a8085f-b602-5d49-aec0-70a89947f80e",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "6",
+                    "sku": "e502a366-2b89-5500-ae25-d4b27579bf94",
+                    "gtin": "00196608051466"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "d6f0a455-178a-5e05-b84e-7150546f3e9c",
+                    "gtin": "00196608051473"
+                },
+                {
+                    "size": "7",
+                    "sku": "6ba0c445-d58b-576a-9c80-efb90fc9884a",
+                    "gtin": "00196608051480"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "d537d307-8c0f-5222-8624-c12b5c1aafb2",
+                    "gtin": "00196608051497"
+                },
+                {
+                    "size": "8",
+                    "sku": "71906660-e01b-5247-accb-a40711c492c0",
+                    "gtin": "00196608051503"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "f6bfaf33-a1f6-54ca-bd80-333e558f687f",
+                    "gtin": "00196608051510"
+                },
+                {
+                    "size": "9",
+                    "sku": "d07e5a11-40b3-558d-9fe6-a0bc64849eb5",
+                    "gtin": "00196608051527"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "21f4a4ed-c9a9-5c08-923e-aeb402f1863e",
+                    "gtin": "00196608051534"
+                },
+                {
+                    "size": "10",
+                    "sku": "6096a84a-7223-59a5-9702-80c4dc13e538",
+                    "gtin": "00196608051541"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "9316511d-2dfa-5791-8613-4f04a5a0a234",
+                    "gtin": "00196608051558"
+                },
+                {
+                    "size": "11",
+                    "sku": "e1634ac1-eb9d-598a-92e1-64184845166d",
+                    "gtin": "00196608051565"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "928b3dd8-3dc1-5733-a212-ce1e68ec3539",
+                    "gtin": "00196608051572"
+                },
+                {
+                    "size": "12",
+                    "sku": "8c80fa6f-c02f-5026-92ec-700d927453fd",
+                    "gtin": "00196608051589"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "cda860c4-9824-59cc-b67d-d49264a92372",
+                    "gtin": "00196608051596"
+                },
+                {
+                    "size": "13",
+                    "sku": "607f9478-41b3-5f5b-afa9-be9b1dd7ffdb",
+                    "gtin": "00196608051602"
+                },
+                {
+                    "size": "14",
+                    "sku": "93387dd0-e694-596c-aba0-e158a053395f",
+                    "gtin": "00196608051619"
+                },
+                {
+                    "size": "15",
+                    "sku": "963d1c89-21d8-594a-8ecb-15133118c66d",
+                    "gtin": "00196608051626"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 110,
+            "color": "DV0831-103"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "4cd362f4-79d2-43f2-9cb6-80932e719490",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 105,
+            "name": "BLAZER MID '77 VNTG",
+            "country": "us",
+            "prodigyId": "1010048744",
+            "cloudProductId": "cc75e82a-20af-526a-9ada-b8ff660b3064",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "6",
+                    "sku": "e1e467cb-82fe-5d72-ab84-1d925f63f212",
+                    "gtin": "00196604359979"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "2418d0a2-00f2-512c-8d13-6455ade5a93f",
+                    "gtin": "00196604359986"
+                },
+                {
+                    "size": "7",
+                    "sku": "bceceb0e-2371-5863-bffa-cafdd1f03353",
+                    "gtin": "00196604359993"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "96a71079-7654-55bb-9fe4-a9d4b6828211",
+                    "gtin": "00196604360005"
+                },
+                {
+                    "size": "8",
+                    "sku": "49e6b825-23c8-571b-9f26-50287448be58",
+                    "gtin": "00196604360012"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "d540548b-4ecb-545b-a5bf-40660ff23dfd",
+                    "gtin": "00196604360029"
+                },
+                {
+                    "size": "9",
+                    "sku": "a204930b-fbfb-5471-83a0-5bdbcaec05bc",
+                    "gtin": "00196604360036"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "b69c0b99-4c5d-50c4-8d4c-f4d5a13a12d6",
+                    "gtin": "00196604360043"
+                },
+                {
+                    "size": "10",
+                    "sku": "4ea191ec-b733-5828-8918-a81a5ac7051a",
+                    "gtin": "00196604360050"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "96827f3a-620a-5847-b5d0-cfc8315a4712",
+                    "gtin": "00196604360067"
+                },
+                {
+                    "size": "11",
+                    "sku": "e7674f0e-04cf-5e2e-8c5b-8cb3a344676d",
+                    "gtin": "00196604360074"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "63bba332-4c87-5eef-8b57-780812045976",
+                    "gtin": "00196604360081"
+                },
+                {
+                    "size": "12",
+                    "sku": "92d2807a-984c-522b-b691-c1c13ebd1543",
+                    "gtin": "00196604360098"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "3dc739b7-a15d-5608-a740-49c1f70f7359",
+                    "gtin": "00196604360104"
+                },
+                {
+                    "size": "13",
+                    "sku": "6601e896-b29f-51a3-801e-7bdd1eb4651c",
+                    "gtin": "00196604360111"
+                },
+                {
+                    "size": "14",
+                    "sku": "3977d702-6339-5985-97b1-5f8c19a1ffde",
+                    "gtin": "00196604360128"
+                },
+                {
+                    "size": "15",
+                    "sku": "367ed7ea-83ff-545e-886c-2ba3a67d06c2",
+                    "gtin": "00196604360135"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 105,
+            "color": "BQ6806-124"
+        },
+        {
+            "isOnSale": false,
+            "catalogId": "1b973616-bccc-4dae-9aa3-179ea5199e92",
+            "isNikeByYou": false,
+            "genders": [
+                "MEN"
+            ],
+            "brand": "Nike",
+            "currentPrice": 150,
+            "name": "BLAZER PHANTOM  MID",
+            "country": "us",
+            "prodigyId": "1012328786",
+            "cloudProductId": "aedc2d56-5df6-565e-84e1-a8e2af29c9c9",
+            "subCategory": [
+                "Lifestyle"
+            ],
+            "skuData": [
+                {
+                    "size": "3.5",
+                    "sku": "a8aee971-9b75-5441-831d-5f6c50c15750",
+                    "gtin": "00196608068815"
+                },
+                {
+                    "size": "4",
+                    "sku": "49bf029d-23eb-5d57-8cc4-b7536c61ec27",
+                    "gtin": "00196608068822"
+                },
+                {
+                    "size": "4.5",
+                    "sku": "dcc137b5-8c1c-5f49-bdd8-c7db7ce1f847",
+                    "gtin": "00196608068839"
+                },
+                {
+                    "size": "5",
+                    "sku": "f1313d2b-1eaf-5ec8-839e-eed869ddbc41",
+                    "gtin": "00196608068846"
+                },
+                {
+                    "size": "5.5",
+                    "sku": "3c016cfd-ec04-5b23-8415-2eba32ea7ec2",
+                    "gtin": "00196608068853"
+                },
+                {
+                    "size": "6",
+                    "sku": "84577bd6-732b-5bbc-ac3f-9681cdc9bc2f",
+                    "gtin": "00196608068860"
+                },
+                {
+                    "size": "6.5",
+                    "sku": "6e7b3a8d-ea48-57e1-9277-75436c57ad2f",
+                    "gtin": "00196608068877"
+                },
+                {
+                    "size": "7",
+                    "sku": "ac56aa74-33ad-5bfc-8517-ff959aeb8c6d",
+                    "gtin": "00196608068884"
+                },
+                {
+                    "size": "7.5",
+                    "sku": "cccf9ce1-1492-5ca9-bd1d-d44159c1ff71",
+                    "gtin": "00196608068891"
+                },
+                {
+                    "size": "8",
+                    "sku": "48a2e287-3488-57a7-ae7f-6259cd162e7c",
+                    "gtin": "00196608068907"
+                },
+                {
+                    "size": "8.5",
+                    "sku": "afb14578-508c-5b97-ba52-a67897c1f5fa",
+                    "gtin": "00196608068914"
+                },
+                {
+                    "size": "9",
+                    "sku": "1f28ac8a-062e-5135-ab64-eafd26795961",
+                    "gtin": "00196608068921"
+                },
+                {
+                    "size": "9.5",
+                    "sku": "8d48dea2-07c2-510f-a6c9-1b8f1cb1d81b",
+                    "gtin": "00196608068938"
+                },
+                {
+                    "size": "10",
+                    "sku": "ec3b7c2c-ebe6-5bf3-94de-53da8d47c9a4",
+                    "gtin": "00196608068945"
+                },
+                {
+                    "size": "10.5",
+                    "sku": "cfa712d8-1709-5598-879d-296cf7e0d38e",
+                    "gtin": "00196608068952"
+                },
+                {
+                    "size": "11",
+                    "sku": "57980a25-bb86-5fab-bb13-df4b494e0292",
+                    "gtin": "00196608068969"
+                },
+                {
+                    "size": "11.5",
+                    "sku": "1ff9227d-5cae-59ca-b091-7a63302ba30b",
+                    "gtin": "00196608068976"
+                },
+                {
+                    "size": "12",
+                    "sku": "07e5004a-ba9e-5afa-a2af-e821e0adb836",
+                    "gtin": "00196608068983"
+                },
+                {
+                    "size": "12.5",
+                    "sku": "e8a4d29e-fc48-5ad7-a43d-957d6937b8bf",
+                    "gtin": "00196608068990"
+                },
+                {
+                    "size": "13",
+                    "sku": "65dd62f1-bba9-5e32-bb56-2ee3f465f3cd",
+                    "gtin": "00196608069003"
+                },
+                {
+                    "size": "14",
+                    "sku": "bd62e83e-c5dc-5973-8c79-718bca304594",
+                    "gtin": "00196608069010"
+                },
+                {
+                    "size": "15",
+                    "sku": "83abf7de-2880-5a55-b03e-bcc1162c1679",
+                    "gtin": "00196608069027"
+                }
+            ],
+            "category": "FOOTWEAR",
+            "fullPrice": 150,
+            "color": "DX5800-001"
+        }
+    ]
+}
