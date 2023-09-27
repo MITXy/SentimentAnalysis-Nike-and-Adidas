@@ -31,10 +31,9 @@ The data used in this project is sourced from Kaggle and includes customer revie
 
 ## Code Structure
 
-- `data/`: Contains the dataset used for the analysis.
-- `notebooks/`: Jupyter notebooks for data preprocessing, analysis, and visualization.
-- `scripts/`: Python scripts for sentiment analysis and data processing.
-- `results/`: Folder to store the generated visualizations and analysis reports.
+- `Data Wrangling & Exploratiion`: Contains the dataset used for the analysis. Jupyter notebooks for data preprocessing, analysis, and visualization.
+- `Model Building`: This Folder involves building the model, Visualisation and Exploration
+- `Sentiment Analysis App`: Python scripts for sentiment analysis and data processing.
 
 ## Setup
 
