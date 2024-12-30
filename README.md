@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and resources for a sentiment analysis project that examines customer reviews for two fashion brands, Adidas and Nike. The project aims to compare sentiment analysis outcomes using lexicon-based tools (TextBlob, SentiWordNet, and Vader) and categorize customer feedback based on their purchased items.
+This repository contains the code and resources for a sentiment analysis project that examines customer reviews for two fashion brands, Adidas and Nike. The project aims to compare sentiment analysis outcomes using lexicon-based tools (TextBlob, SentiWordNet, and Vader) and categorize customer feedback based on their purchased items. Acess a comprehensive documentation of this research [here](https://docs.google.com/document/d/1xbzcP9fu9a2scFvQraUnZ4IUcwttCcMZllV0dPCIKpc/edit?usp=sharing).
 
 ![FashionBrands](fashion_brand.webp)
 ## Table of Contents
